@@ -11,3 +11,6 @@ docker-compose up
 The DVD rental dataset can be found at [this](https://www.postgresqltutorial.com/postgresql-sample-database/) link.
 
 Also, [SQL Fundamentals for Business Intelligence](https://www.packtpub.com/product/sql-fundamentals-for-business-intelligence-video/9781788471176) (video edition) is a great resource to learn the fundamentals of SQL.
+
+## ER Diagram
+![ER Diagram](/ER-Diagram.png?raw=true "ER Diagram")
